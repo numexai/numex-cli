@@ -25,7 +25,7 @@ Numex CLI, [Numex Codex](https://github.com/numexai/numex-codex)'in terminaldeki
 [Konsey nasıl çalışır? →](https://github.com/numexai/numex-codex/blob/main/docs/konsey.md)
 
 **Terminal ve IDE'ler için Türkçe, otonom, ajan tabanlı kodlama asistanı.**
-Lisans: MIT · Paket: `@numexai/cli`
+Depo içeriği: tüm hakları saklıdır ([LICENSE](LICENSE)) · npm paketi `@numexai/cli` kendi içindeki MIT lisansıyla dağıtılır
 
 ![Numex Codex CLI açılış ekranı](gorseller/cli-codex-acilis.png)
 *`numex` → Terminal sohbeti: Selçuklu yıldızı logosu, sunucu, proje kökü, sürüm, mod ve model bilgisi.*
@@ -112,7 +112,7 @@ ruh halini (stres, yorgunluk, heyecan) fark edip tempo ayarlar.
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/numexai/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
 *İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
