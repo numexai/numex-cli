@@ -8,7 +8,7 @@
 
 [![npm](https://img.shields.io/badge/npm-@numexai/cli-00C9A7?style=for-the-badge)](https://www.npmjs.com/package/@numexai/cli)
 [![Sürüm](https://img.shields.io/badge/CLI-v3.3.10-0A1628?style=for-the-badge)](https://codex.numexai.com.tr)
-[![Codex](https://img.shields.io/badge/ailesi-Numex_Codex-0A1628?style=for-the-badge)](https://github.com/mobilcep/numex-codex)
+[![Codex](https://img.shields.io/badge/ailesi-Numex_Codex-0A1628?style=for-the-badge)](https://github.com/numexai/numex-codex)
 
 </div>
 
@@ -20,9 +20,9 @@ numex login
 numex "koyu temalı bir yapılacaklar uygulaması yap"
 ```
 
-Numex CLI, [Numex Codex](https://github.com/mobilcep/numex-codex)'in terminaldeki yüzü. Karmaşık işlerde
+Numex CLI, [Numex Codex](https://github.com/numexai/numex-codex)'in terminaldeki yüzü. Karmaşık işlerde
 4 uzmanlı **Konsey** (Mimar · Kodlayıcı · Denetçi · Tasarımcı) ile çalışır ve **kanıtsız "bitti" demez** —
-[Konsey nasıl çalışır? →](https://github.com/mobilcep/numex-codex/blob/main/docs/konsey.md)
+[Konsey nasıl çalışır? →](https://github.com/numexai/numex-codex/blob/main/docs/konsey.md)
 
 **Terminal ve IDE'ler için Türkçe, otonom, ajan tabanlı kodlama asistanı.**
 Lisans: MIT · Paket: `@numexai/cli`
@@ -106,14 +106,14 @@ ruh halini (stres, yorgunluk, heyecan) fark edip tempo ayarlar.
 - Terminalde yaşayan geliştiriciler
 - Türkçe açıklama ve Türkçe kod yorumu isteyen ekipler
 - Bilgisayarına uzaktan (telefondan) iş yaptırmak isteyenler
-- CI/CD ve otomasyon hatlarına ajan eklemek isteyenler ([SDK](https://github.com/mobilcep/numex-sdk))
+- CI/CD ve otomasyon hatlarına ajan eklemek isteyenler ([SDK](https://github.com/numexai/numex-sdk))
 
 ---
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/mobilcep/numex-codex) · [Okul](https://github.com/mobilcep/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/mobilcep/numex-pedia) · [Hub](https://github.com/mobilcep/numex-hub) · [Forge](https://github.com/mobilcep/numex-forge) · [API](https://github.com/mobilcep/numex-api) · [SDK](https://github.com/mobilcep/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
-*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/mobilcep/numex_nedir)
+*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
 </div>
